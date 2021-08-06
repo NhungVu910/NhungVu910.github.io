@@ -6,7 +6,7 @@
 title: NV's Life
 subtitle: "Beliefs are stronger than reality"
 author: Nhung Vu
-timezone:(GMT+9)
+timezone:GMT+9
 
 # Internationalization (i18n) Setting
 language: # At present, only en、cn and tw are supported. You can customize the language，refer to `languages/en.yml`.
